@@ -157,6 +157,7 @@ public class RegisterPatientpage extends BasePage{
      if (data.get("Day").isEmpty()){
          estimatedYears.sendKeys(data.get("Estimated Years"));
          estimatedMoths.sendKeys(data.get("Estimated Month"));
+        ///TODO: parse doesnt work
 
 //        String estYears = (String.valueOf((int)Float.parseFloat(data.get("Estimated Years"))));
 //        String estMonth = (String.valueOf(((int)Float.parseFloat(data.get("Estimated Month"))))); /// TODO: check this part
