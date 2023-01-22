@@ -33,6 +33,7 @@ public class HomePage extends BasePage{
         clickOnRegisterAPatientTab();
     }
     private void verifyTitle(){
+
         softAssert.assertTrue(driver.getTitle().equalsIgnoreCase("Home"), "title is not correct");
     }
     private void clickOnRegisterAPatientTab(){
