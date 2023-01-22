@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/openMRS_dublicate/openMRS_dublicate.iml" filepath="$PROJECT_DIR$/openMRS_dublicate/openMRS_dublicate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/opernMrsTeam2Katia.iml" filepath="$PROJECT_DIR$/.idea/opernMrsTeam2Katia.iml" />
+    </modules>
+  </component>
+</project>
